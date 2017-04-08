@@ -7,7 +7,6 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:inputType="textPersonName"
         android:text="New note"
         android:ems="10"
         android:id="@+id/newNoteTextView" />
